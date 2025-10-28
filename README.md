@@ -1,5 +1,5 @@
 # MIDS241-Weight-Checkin
-Weighin Frequency Causal Study for MIDS 241
+Weigh-in Frequency Causal Study for MIDS 241
 
 ## GitHub Pages
 
