@@ -422,7 +422,6 @@
                     const scrolled = window.pageYOffset;
                     const hero = document.querySelector('.hero');
                     if (hero && scrolled < hero.offsetHeight) {
-                        hero.style.transform = `translateY(${scrolled * 0.3}px)`;
                     }
                     ticking = false;
                 });
